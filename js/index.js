@@ -1,4 +1,4 @@
-//Рекурсія
+//Recursion
 function fib(n) {
     var number;
     if(n > 1){
@@ -14,7 +14,7 @@ document.write(fib(prompt('Method Recursion: Enter number')));
 
 document.write('<br>');
 
-//масив
+//Massif
 function fibonacci(number) {
     let numeric = [1, 1];
 
@@ -28,7 +28,7 @@ document.write(fibonacci(prompt('Method Massif: Enter number')));
 
 document.write('<br>');
 
-//Цикл
+//Cycle
 function fib(n) {
     let number1,
         number2;
